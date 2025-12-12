@@ -14,3 +14,4 @@ This project demonstrates a complete Data Engineering and Analytics pipeline des
 | **Advanced Visualization** | Generates high-impact, interactive charts to visualize multi-dimensional survey data. | **Plotly**, Diverging Stacked Bar Charts, Geospatial Mapping, Statistical Visuals. |
 | **Web Application** | Deploys the analysis in a professional, interactive dashboard with dynamic filtering and data export functionality. | **Streamlit**, Cached data loading (`@st.cache_data`), Custom components, Responsive Layout. |
 
+## live dashboard : (https://humanitarian-data-tracker-7j5a5lwvvdgc4ysrpo2t2n.streamlit.app/)
