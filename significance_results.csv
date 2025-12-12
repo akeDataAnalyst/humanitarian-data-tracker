@@ -1,0 +1,3 @@
+Comparison,Mean_G1,Mean_G2,Difference,P_Value,Significance
+Female vs. Male (on trust_in_aid_provider),2.811,2.784,0.027,0.38051,No
+IDP vs. Host Community (on aid_fairness),3.328,3.296,0.032,0.39126,No
