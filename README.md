@@ -4,8 +4,6 @@
 
 This project demonstrates a complete Data Engineering and Analytics pipeline designed to process raw beneficiary feedback data from a humanitarian survey. It executes a robust ETL (Extract, Transform, Load) cycle, performs core quantitative analysis (KPIs and Statistical Inference), and presents actionable findings through an interactive, executive-ready Streamlit web application.
 
-This solution was built to meet the needs of a Data Analyst/Engineer role requiring expertise in data cleaning, SQL injection, quantitative analysis, and advanced data visualization.
-
 ## Key Features & Technical Skills
 
 | Feature Area | Description | Technical Tools & Concepts |
