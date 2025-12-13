@@ -13,7 +13,7 @@ import base64 # Required for download button functionality
 
 # Set the page configuration for a professional look
 st.set_page_config(
-    page_title="Ground Truth Tracker: Humanitarian Feedback Dashboard",
+    page_title="Humanitarian Feedback Dashboard",
     layout="wide",
     initial_sidebar_state="expanded"
 )
