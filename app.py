@@ -179,7 +179,7 @@ def main():
     selected_metric_col = SCORE_COLS[selected_metric_label]
 
     # --- Header and KPIs ---
-    st.title("🌍 Ground Truth Tracker: Humanitarian Impact Dashboard")
+    st.title("Humanitarian Impact Dashboard")
     st.markdown("### Executive Summary: Aid Feedback & Actionable Insights")
     
     # Calculate KPIs based on FILTERED data
